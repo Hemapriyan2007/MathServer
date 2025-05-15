@@ -75,7 +75,7 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>power of a lamp filament </h1>
-        <h3>HEmapriyan.p R(212224040116)</h3>
+        <h3>hemapriyan.p (212224040116)</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
